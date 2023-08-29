@@ -1,2 +1,2 @@
-# Curso de Quimica
+# Curso-de-Quimica
 Practicas Química
