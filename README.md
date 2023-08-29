@@ -1,2 +1,2 @@
-# Luis-Arroyo
+# Curso de Quimica
 Practicas Química
